@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607592842605",
+    "project_id": "login-gestion-de-actividades",
+    "storage_bucket": "login-gestion-de-actividades.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607592842605:android:38ccbe72079cdf71f30664",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607592842605-4k7j5o5f6sf3421819nd5et8pupc4u9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfMbC7-nrt7Fc-91NQwOc4JERyJ7TV3_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607592842605-4k7j5o5f6sf3421819nd5et8pupc4u9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
