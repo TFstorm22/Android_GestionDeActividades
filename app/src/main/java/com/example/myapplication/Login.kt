@@ -19,6 +19,10 @@ class Login : AppCompatActivity() {
 
 
         autenticacionFirebase = FirebaseAuth.getInstance()
+        vistaBinding.crearCuentaTextView.setOnClickListener {
+            val intent = Intent(this, Registrar::class.java)
+            startActivity(intent)
+        }
 
 
         vistaBinding.loginButton.setOnClickListener {
